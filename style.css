@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  background-color: deepskyblue;
+  margin: 0 auto;
+  width: 80%;
+  height: 2048px;
+}
+
+header {
+  background-color: mediumblue;
+  color: white;
+  padding: 1rem;
+  position: fixed;
+  box-shadow: 4px 4px rgba(0, 0, 0, 0.5);
+  width: 80%;
+}
