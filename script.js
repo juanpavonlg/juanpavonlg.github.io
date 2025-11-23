@@ -1,3 +1,3 @@
 setTimeout(() => {
-  alert("Hello to my Portfolio Website!");
+  alert("Welcome to my Portfolio Website!");
 }, 5000);

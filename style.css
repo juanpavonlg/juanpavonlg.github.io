@@ -16,6 +16,18 @@ header {
   color: white;
   padding: 1rem;
   position: fixed;
-  box-shadow: 4px 4px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
   width: 80%;
+}
+
+footer {
+  background-color: deepskyblue;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+  width: 80%;
+}
+
+.heart {
+  color: red;
 }
